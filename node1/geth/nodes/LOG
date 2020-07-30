@@ -1,0 +1,18 @@
+=============== Jul 27, 2020 (EDT) ===============
+17:59:34.858239 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:59:34.861229 db@open opening
+17:59:34.864225 version@stat F·[] S·0B[] Sc·[]
+17:59:34.865216 db@janitor F·2 G·0
+17:59:34.865216 db@open done T·3.9867ms
+18:00:17.922948 db@close closing
+18:00:17.929923 db@close done T·6.9749ms
+=============== Jul 27, 2020 (EDT) ===============
+18:01:04.007604 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:01:04.009599 version@stat F·[] S·0B[] Sc·[]
+18:01:04.009599 db@open opening
+18:01:04.009599 journal@recovery F·1
+18:01:04.011590 journal@recovery recovering @1
+18:01:04.014580 memdb@flush created L0@2 N·332 S·9KiB "loc..seq,v22":"version,v1"
+18:01:04.018051 version@stat F·[1] S·9KiB[9KiB] Sc·[0.25]
+18:01:04.024028 db@janitor F·3 G·0
+18:01:04.025028 db@open done T·15.4282ms

@@ -1,0 +1,30 @@
+=============== Jul 27, 2020 (EDT) ===============
+17:59:02.614751 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:59:02.618742 db@open opening
+17:59:02.620733 version@stat F·[] S·0B[] Sc·[]
+17:59:02.622757 db@janitor F·2 G·0
+17:59:02.622757 db@open done T·4.0152ms
+17:59:02.623723 db@close closing
+17:59:02.625758 db@close done T·2.035ms
+=============== Jul 27, 2020 (EDT) ===============
+18:02:56.499390 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:02:56.499390 version@stat F·[] S·0B[] Sc·[]
+18:02:56.499390 db@open opening
+18:02:56.499390 journal@recovery F·1
+18:02:56.508459 journal@recovery recovering @1
+18:02:56.515337 memdb@flush created L0@2 N·12 S·856B "H\xae\xc9..\xed&x,v5":"|F\x84..0qv,v2"
+18:02:56.524307 version@stat F·[1] S·856B[856B] Sc·[0.25]
+18:02:56.532280 db@janitor F·3 G·0
+18:02:56.532280 db@open done T·32.8899ms
+18:02:56.587097 db@close closing
+18:02:56.590088 db@close done T·2.991ms
+=============== Jul 27, 2020 (EDT) ===============
+18:03:49.547018 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:03:49.547018 version@stat F·[1] S·856B[856B] Sc·[0.25]
+18:03:49.547018 db@open opening
+18:03:49.547018 journal@recovery F·1
+18:03:49.553995 journal@recovery recovering @3
+18:03:49.558979 memdb@flush created L0@5 N·2 S·425B "Dat..ion,v14":"cli..\xed&x,v15"
+18:03:49.565030 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+18:03:49.571934 db@janitor F·4 G·0
+18:03:49.571934 db@open done T·24.9161ms
